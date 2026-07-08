@@ -1,7 +1,6 @@
 ## Hi, I'm Kantinan 👋
 
 I build projects around agentic RAG, knowledge graphs, AI-powered applications, and robotics perception/planning pipelines.  
-Currently seeking internship opportunities in AI/ML, Backend, Cloud, or Data Engineering.
 
 ## Focus Areas
 
