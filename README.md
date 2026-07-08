@@ -12,7 +12,7 @@ I build projects around agentic RAG, knowledge graphs, AI-powered applications, 
 **Tech:** Python, C/C++, ROS ,LangChain/LangGraph ,RAG ,Graph Database (Neo4J) , Relational Database ,numpy ,sklearn ,open3D
 
 - Email: pondkitnag@gmail.com
-- LinkedIn: linkedin.com/in/kantinan-khongnuam-6b3a542ba
+- LinkedIn: [linkedin.com/in/kantinan-khongnuam-6b3a542ba](https://www.linkedin.com/in/kantinan-khongnuam-6b3a542ba/)
 <!--
 **JohnTagarian/JohnTagarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
