@@ -1,13 +1,16 @@
 ## Hi, I'm Kantinan 👋
 
-I build projects around agentic RAG, knowledge graphs, AI-powered applications, and robotics perception/planning pipelines.  
+Computer Engineering student building reliable AI systems, graph-based retrieval, robotics perception/planning software and backend data pipelines.
 
+I enjoy turning algorithms—from knowledge-graph retrieval to robot motion planning—into practical software with measurable results.
 ## Focus Areas
 
 - AI Systems: Agentic RAG, GraphRAG, LLM applications, knowledge graphs
-- Backend & Data: FastAPI, PostgreSQL, Neo4j, RESTful APIs, data pipelines
 - Algorithms: graph retrieval, path planning, optimization, data structures
 - Robotics Software: perception pipelines, point-cloud processing, motion planning
+- Backend & Data: FastAPI, PostgreSQL, Neo4j, RESTful APIs, data pipelines
+
+
 
 **Tech:** Python, C/C++, ROS ,LangChain/LangGraph ,RAG ,Graph Database (Neo4J) , Relational Database ,numpy ,sklearn ,open3D
 
