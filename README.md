@@ -8,11 +8,11 @@ I enjoy turning algorithms—from knowledge-graph retrieval to robot motion plan
 - AI Systems: Agentic RAG, GraphRAG, LLM applications, knowledge graphs
 - Algorithms: graph retrieval, path planning, optimization, data structures
 - Robotics Software: perception pipelines, point-cloud processing, motion planning
-- Backend & Data: FastAPI, PostgreSQL, Neo4j, RESTful APIs, data pipelines
+- Backend & Data: PostgreSQL, Neo4j, RESTful APIs
 
 
 
-**Tech:** Python, C/C++, ROS ,LangChain/LangGraph ,RAG ,Graph Database (Neo4J) , Relational Database ,numpy ,sklearn ,open3D
+**Tech:** Python, C/C++, ROS ,LangGraph ,RAG ,Graph Database (Neo4J) , Relational Database , Open3D ,pcl
 
 - Email: pondkitnag@gmail.com
 - LinkedIn: [linkedin.com/in/kantinan-khongnuam-6b3a542ba](https://www.linkedin.com/in/kantinan-khongnuam-6b3a542ba/)
